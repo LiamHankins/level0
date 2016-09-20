@@ -1,4 +1,4 @@
-package day1.robot;
+
 // Copyright Wintriss Technical Schools 2013
 import java.util.Random;
 
@@ -30,13 +30,13 @@ if(rnd == 1) {
 	// -- tell the user "No"
 
 	// 7. If the random number is 2
-if (rnd ==2) {
+if (rnd ==1) {
 	JOptionPane.showMessageDialog(null, "Maybe you should ask the almighty Google?");
 }
 	// -- tell the user "Maybe you should ask Google?"
 
 	// 8. If the random number is 3
-if(rnd ==3) {
+if(rnd ==0) {
 	JOptionPane.showMessageDialog(null, "Maybe you should browse dank memes");
 }
 	// -- write your own answer
